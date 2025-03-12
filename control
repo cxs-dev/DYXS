@@ -1,0 +1,11 @@
+Package: com.xiaoshuai.dyxs
+Name: DYXS
+Version: 5.20
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Homepage: https://github.com/cxs-dev/DYXS
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Maintainer: xiaoshuai
+Author: xiaoshuai
+Architecture: iphoneos-arm
