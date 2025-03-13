@@ -1,9 +1,9 @@
 #
 #  DYXS
 #
-#  Copyright (c) 2024 huami. All rights reserved.
-#  Channel: @huamidev
-#  Created on: 2024/10/04
+#  Copyright (c) 2025 xiaoshuai. All rights reserved.
+#  Channel: @cxs-dev
+#  Created on: 2025/3/04
 #
 TARGET = iphone:clang:latest:15.0
 ARCHS = arm64
